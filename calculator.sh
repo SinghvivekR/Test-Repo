@@ -1,4 +1,5 @@
 A = 5
 B = 3
-Add = A+B
+C = 2
+Add = A+B+C
 div = A-B
