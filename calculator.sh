@@ -1,5 +1,7 @@
 A = 5
 B = 3
-C = 2
+C = 5
 Add = A+B+C
-div = A-B
+Sub = A-B
+MUl = A*2
+div = A%1
